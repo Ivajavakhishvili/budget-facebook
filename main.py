@@ -140,3 +140,8 @@ def succesfull_registretion():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+    "pip install Werkzeug"
+    "pip install Flask-SQLAlchemy"
+    "pip install requests"
+    "pip install Flask"  
